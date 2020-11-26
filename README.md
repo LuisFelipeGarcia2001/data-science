@@ -18,6 +18,6 @@ Um estudante de Física, sempre em busca de conhecimento sobre o mundo, com habi
 
 
 ## Projetos:
-* **Usando regressão linear para prever preço de casas:** https://bit.ly/2V5nsij
+* **Usando regressão linear para prever preço de casas:** https://bit.ly/3o2FEFA
 
 ---
