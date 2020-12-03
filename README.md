@@ -17,7 +17,7 @@ Um estudante de Física, sempre em busca de conhecimento sobre o mundo, com habi
 * [Blog Sigmoidal](http://sigmoidal.ai) Template inspirado no Carlos Melo, criador do Sigmoidal.
 
 
-## Projetos:
+## Projetos de estudo:
 * **Usando regressão linear para prever preço de casas:** https://bit.ly/3o2FEFA
-
+* **Previsão de quanto um cliente irá gastar:** https://bit.ly/2JNV8ig
 ---
