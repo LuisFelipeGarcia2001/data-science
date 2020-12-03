@@ -12,7 +12,7 @@ Um estudante de Física, sempre em busca de conhecimento sobre o mundo, com habi
 **Experiência:** Física, Python, Educação.
 
 **Links:**
-* [LinkedIn](www.linkedin.com/in/luis-felipe-de-sousa-garcia)
+* [LinkedIn](https://www.linkedin.com/in/luis-felipe-de-sousa-garcia)
 * [Medium](https://medium.com/@felipe.lfsg)
 * [Blog Sigmoidal](http://sigmoidal.ai) Template inspirado no Carlos Melo, criador do Sigmoidal.
 
